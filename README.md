@@ -1,8 +1,7 @@
 # Project Setup & Usage Guide
 
 ## 1. Download the Project Folder
-- Download the project folder from the provided **Google Drive link**.  
-- Extract it to a location of your choice (e.g., `C:\Users\YourName\Documents\project-folder`).
+- Download the project folder from the provided link.  
 
 ---
 
@@ -30,14 +29,14 @@ These steps only need to be done **once**.
    ruby -v
    ```
 
-⚠️ **Note:** If either command shows an error, close Command Prompt and open it again, then re-run the version check.
+⚠️ **Note:** If either of the commands to verify installation shows an error, close Command Prompt and open it again, then re-run the version check.
 
 ---
 
 ## 3. Install Python & Ruby Packages
-Navigate into the downloaded folder using `cd` (replace with your folder path):  
+Navigate into the downloaded folder using `cd` (replace with your folder path).Default path if you installed in Downloads will be:  
 ```bash
-cd path\to\your\project-folder
+cd Downloads/wayback_scraper
 ```
 
 Then install the requirements:
@@ -54,12 +53,25 @@ gem install wayback_machine_downloader
 
 ---
 
-## 4. Running the Script
-Once everything is installed:  
+## 4. Unzip the Archive (if present)
+If there is a file called `archive.zip` in the project folder, unzip it before running the script.  
+
+You can do this using Python:  
+```bash
+py -m zipfile -e archive.zip .
+```
+
+Or manually:
+- Right-click `archive.zip` → **Extract All** → choose the same folder.
+
+---
+
+## 5. Running the Script
+Once everything is installed (and the archive is extracted, if present):  
 1. Open Command Prompt.  
 2. Navigate to the project folder:  
    ```bash
-   cd path\to\your\project-folder
+   cd Downloads/wayback_scraper
    ```
 3. Run the script:  
    ```bash
@@ -76,6 +88,6 @@ Once everything is installed:
 - These files are required for the script to run correctly.  
 - You **only need to install Python, Ruby, and requirements once**. After that, just run:  
   ```bash
-  cd path\to\your\project-folder
+  cd Downloads/wayback_scraper
   py downloads.py
   ```

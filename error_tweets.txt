@@ -1,0 +1,1008 @@
+20190316152900_twitter.com_NekroVEVO_status_1106940436453580800.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190323160113_twitter.com_NekroVEVO_status_1109485259094147075.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190426191445_twitter.com_NekroVEVO_status_1121855150782423040.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190524162739_twitter.com_NekroVEVO_status_1131959958931591168.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190708113939_twitter.com_NekroVEVO_status_1148194935289417728.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190729220150_twitter.com_NekroVEVO_status_1155961658042269696.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190813121228_twitter.com_NekroVEVO_status_1161249157048258561.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190821170419_twitter.com_NekroVEVO_status_1164221706430324737.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190829005431_twitter.com_NekroVEVO_status_1166876751189827584.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190830015524_twitter.com_NekroVEVO_status_1167254460852125696.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190830015626_twitter.com_NekroVEVO_status_1167254720882208769.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20190909133251_twitter.com_NekroVEVO_status_1171053858530816001.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 47, in parse_html
+    ancestor_container = main_container.select_one("div.permalink-in-reply-tos")
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+
+20191220193413_twitter.com_NekroVEVO_status_1208103976475824128.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 66, in parse_html
+    print("The time is:", parse_twitter_datetime(time_text))
+                          ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 21, in parse_twitter_datetime
+    return datetime.strptime(date_str, "%I:%M %p - %d %b %Y")
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\AppData\Local\Programs\Python\Python313\Lib\_strptime.py", line 573, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+                                    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\AppData\Local\Programs\Python\Python313\Lib\_strptime.py", line 352, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+                     (data_string, format))
+ValueError: time data '11:16 ಪೂರ್ವಾಹ್ನ - ಡಿಸೆಂ 20,2019' does not match format '%I:%M %p - %d %b %Y'
+
+20200726225403_twitter.com_NekroVEVO.html
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 144, in main
+    tweet = parse_html(soup,post)
+  File "C:\Users\Brayo\Desktop\wayback_scraper\parse_html.py", line 54, in parse_html
+    tweet_text_elem  = link_container.select_one("div.js-tweet-text-container p.js-tweet-text")
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'select_one'
+https://twitter.com/NekroVEVO/status/1174443865828257792
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1174443865828257792/index.html'
+
+https://twitter.com/NekroVEVO/status/1176208775591522304
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 152, in download_with_wmd
+    files = os.listdir(open_temp_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'archive/tmp_dl/NekroVEVO/status'
+
+https://twitter.com/NekroVEVO/status/1176512392861143041
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 152, in download_with_wmd
+    files = os.listdir(open_temp_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'archive/tmp_dl/NekroVEVO/status'
+
+https://twitter.com/NekroVEVO/status/1180089316304769024
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 152, in download_with_wmd
+    files = os.listdir(open_temp_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'archive/tmp_dl/NekroVEVO/status'
+
+https://twitter.com/NekroVEVO/status/1184902619870818305
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 152, in download_with_wmd
+    files = os.listdir(open_temp_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'archive/tmp_dl/NekroVEVO/status'
+
+https://twitter.com/NekroVEVO/status/1187488219559940096
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 152, in download_with_wmd
+    files = os.listdir(open_temp_dir)
+FileNotFoundError: [WinError 3] The system cannot find the path specified: 'archive/tmp_dl/NekroVEVO/status'
+
+https://twitter.com/NekroVEVO/status/1194326665993703432
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194326665993703432/index.html'
+
+https://twitter.com/NekroVEVO/status/1194326711170584576
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194326711170584576/index.html'
+
+https://twitter.com/NekroVEVO/status/1194326914552365059
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194326914552365059/index.html'
+
+https://twitter.com/NekroVEVO/status/1194373170620334080
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194373170620334080/index.html'
+
+https://twitter.com/NekroVEVO/status/1194373265826824192
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194373265826824192/index.html'
+
+https://twitter.com/NekroVEVO/status/1194373621675724800
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194373621675724800/index.html'
+
+https://twitter.com/NekroVEVO/status/1194385948454207488
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194385948454207488/index.html'
+
+https://twitter.com/NekroVEVO/status/1194385998135738368
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194385998135738368/index.html'
+
+https://twitter.com/NekroVEVO/status/1194386035955757057
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194386035955757057/index.html'
+
+https://twitter.com/NekroVEVO/status/1194386126930243584
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194386126930243584/index.html'
+
+https://twitter.com/NekroVEVO/status/1194386159352201217
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194386159352201217/index.html'
+
+https://twitter.com/NekroVEVO/status/1194386384179609601
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194386384179609601/index.html'
+
+https://twitter.com/NekroVEVO/status/1194386953703063557
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194386953703063557/index.html'
+
+https://twitter.com/NekroVEVO/status/1194387212588052480
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194387212588052480/index.html'
+
+https://twitter.com/NekroVEVO/status/1194388432933380098
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194388432933380098/index.html'
+
+https://twitter.com/NekroVEVO/status/1194389788545019904
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194389788545019904/index.html'
+
+https://twitter.com/NekroVEVO/status/1194390190896242688
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194390190896242688/index.html'
+
+https://twitter.com/NekroVEVO/status/1194601736872218624
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194601736872218624/index.html'
+
+https://twitter.com/NekroVEVO/status/1194602160660467713
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194602160660467713/index.html'
+
+https://twitter.com/NekroVEVO/status/1194670148486959104
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194670148486959104/index.html'
+
+https://twitter.com/NekroVEVO/status/1194675603909136384
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194675603909136384/index.html'
+
+https://twitter.com/NekroVEVO/status/1194677183588917249
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194677183588917249/index.html'
+
+https://twitter.com/NekroVEVO/status/1194679254073540608
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194679254073540608/index.html'
+
+https://twitter.com/NekroVEVO/status/1194680201122177024
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194680201122177024/index.html'
+
+https://twitter.com/NekroVEVO/status/1194680668329934848
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194680668329934848/index.html'
+
+https://twitter.com/NekroVEVO/status/1194680723011067905
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194680723011067905/index.html'
+
+https://twitter.com/NekroVEVO/status/1194680835120623616
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194680835120623616/index.html'
+
+https://twitter.com/NekroVEVO/status/1194701572606816256
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194701572606816256/index.html'
+
+https://twitter.com/NekroVEVO/status/1194703158011813888
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194703158011813888/index.html'
+
+https://twitter.com/NekroVEVO/status/1194703404783656960
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194703404783656960/index.html'
+
+https://twitter.com/NekroVEVO/status/1194703617909051392
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194703617909051392/index.html'
+
+https://twitter.com/NekroVEVO/status/1194703900038713344
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194703900038713344/index.html'
+
+https://twitter.com/NekroVEVO/status/1194704132252127232
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194704132252127232/index.html'
+
+https://twitter.com/NekroVEVO/status/1194704881635823616
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194704881635823616/index.html'
+
+https://twitter.com/NekroVEVO/status/1194705687839821824
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194705687839821824/index.html'
+
+https://twitter.com/NekroVEVO/status/1194706206687813632
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194706206687813632/index.html'
+
+https://twitter.com/NekroVEVO/status/1194707476068724736
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194707476068724736/index.html'
+
+https://twitter.com/NekroVEVO/status/1194708439584235520
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194708439584235520/index.html'
+
+https://twitter.com/NekroVEVO/status/1194709075390427137
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194709075390427137/index.html'
+
+https://twitter.com/NekroVEVO/status/1194713074541842432
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194713074541842432/index.html'
+
+https://twitter.com/NekroVEVO/status/1194985495932964870
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1194985495932964870/index.html'
+
+https://twitter.com/NekroVEVO/status/1195007636103520257
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195007636103520257/index.html'
+
+https://twitter.com/NekroVEVO/status/1195008746671312896
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195008746671312896/index.html'
+
+https://twitter.com/NekroVEVO/status/1195008815390814208
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195008815390814208/index.html'
+
+https://twitter.com/NekroVEVO/status/1195055505128869889
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195055505128869889/index.html'
+
+https://twitter.com/NekroVEVO/status/1195057538498121728
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195057538498121728/index.html'
+
+https://twitter.com/NekroVEVO/status/1195058734273196033
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195058734273196033/index.html'
+
+https://twitter.com/NekroVEVO/status/1195059934599110656
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195059934599110656/index.html'
+
+https://twitter.com/NekroVEVO/status/1195072809879236608
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1195072809879236608/index.html'
+
+https://twitter.com/NekroVEVO/status/1196863551165493248
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1196863551165493248/index.html'
+
+https://twitter.com/NekroVEVO/status/1196927548501839872
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1196927548501839872/index.html'
+
+https://twitter.com/NekroVEVO/status/1196927953755525120
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1196927953755525120/index.html'
+
+https://twitter.com/NekroVEVO/status/1197157069658288128
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197157069658288128/index.html'
+
+https://twitter.com/NekroVEVO/status/1197157227368337408
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197157227368337408/index.html'
+
+https://twitter.com/NekroVEVO/status/1197166408469118977
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197166408469118977/index.html'
+
+https://twitter.com/NekroVEVO/status/1197215189063462912
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197215189063462912/index.html'
+
+https://twitter.com/NekroVEVO/status/1197217175238410240
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197217175238410240/index.html'
+
+https://twitter.com/NekroVEVO/status/1197217590982004736
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197217590982004736/index.html'
+
+https://twitter.com/NekroVEVO/status/1197219116282630145
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197219116282630145/index.html'
+
+https://twitter.com/NekroVEVO/status/1197501745355579399
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197501745355579399/index.html'
+
+https://twitter.com/NekroVEVO/status/1197518465386475520
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197518465386475520/index.html'
+
+https://twitter.com/NekroVEVO/status/1197534987886759936
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197534987886759936/index.html'
+
+https://twitter.com/NekroVEVO/status/1197886399854170120
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197886399854170120/index.html'
+
+https://twitter.com/NekroVEVO/status/1197887334772948994
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197887334772948994/index.html'
+
+https://twitter.com/NekroVEVO/status/1197906480927633408
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1197906480927633408/index.html'
+
+https://twitter.com/NekroVEVO/status/1198271610270076933
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198271610270076933/index.html'
+
+https://twitter.com/NekroVEVO/status/1198272680782249984
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198272680782249984/index.html'
+
+https://twitter.com/NekroVEVO/status/1198273389967757312
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198273389967757312/index.html'
+
+https://twitter.com/NekroVEVO/status/1198273654435368960
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198273654435368960/index.html'
+
+https://twitter.com/NekroVEVO/status/1198273972556554240
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198273972556554240/index.html'
+
+https://twitter.com/NekroVEVO/status/1198726568232640512
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198726568232640512/index.html'
+
+https://twitter.com/NekroVEVO/status/1198753784714805248
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198753784714805248/index.html'
+
+https://twitter.com/NekroVEVO/status/1198767834022629376
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198767834022629376/index.html'
+
+https://twitter.com/NekroVEVO/status/1198767881632137216
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198767881632137216/index.html'
+
+https://twitter.com/NekroVEVO/status/1198768492666687488
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1198768492666687488/index.html'
+
+https://twitter.com/NekroVEVO/status/1199013915780243457
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199013915780243457/index.html'
+
+https://twitter.com/NekroVEVO/status/1199015013047914496
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199015013047914496/index.html'
+
+https://twitter.com/NekroVEVO/status/1199016027071242245
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199016027071242245/index.html'
+
+https://twitter.com/NekroVEVO/status/1199016516005453827
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199016516005453827/index.html'
+
+https://twitter.com/NekroVEVO/status/1199042683060117504
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199042683060117504/index.html'
+
+https://twitter.com/NekroVEVO/status/1199046646484455425
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199046646484455425/index.html'
+
+https://twitter.com/NekroVEVO/status/1199046714642063363
+Traceback (most recent call last):
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 201, in process_json_file
+    download_with_wmd(original_url, timestamp, output_dir)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Brayo\Desktop\wayback_scraper\downloads.py", line 154, in download_with_wmd
+    with open(f"{open_temp_dir}/{file}/index.html" , encoding="utf-8") as file:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'archive/tmp_dl/NekroVEVO/status/1199046714642063363/index.html'
